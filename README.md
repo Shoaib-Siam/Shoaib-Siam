@@ -1,9 +1,8 @@
 # Hi there, I'm Shoaib 👋
 
 ### 🚀 About Me
-- 🔭 I’m currently working on an **E-commerce** platform.
-- 🌱 I’m currently building a **PC Build** configurator project.
-- 💬 Ask me about **Flutter mobile development** or **Laravel backends**.
+- 🔭 I’m currently working on **Flutter**.
+- 💬 Ask me about **Flutter mobile** development** or **Laravel backends**.
 - 📫 Reach me at: **shoaibhasan765@gmail.com**
 - ⚡ Fun fact: I am a very sleepy person 😴
 
