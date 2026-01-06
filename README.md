@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Flutter**.
-- 💬 Ask me about **Flutter mobile development** or **Laravel backends**.
+- 💬 Ask me about **Flutter mobile development**.
 - 📫 Reach me at: **shoaibhasan765@gmail.com**
 - ⚡ Fun fact: I am a very sleepy person 😴
 
